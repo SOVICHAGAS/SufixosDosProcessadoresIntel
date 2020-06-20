@@ -1,4 +1,4 @@
-# SufixosDosProcessadoresIntel
+# Sufixos Dos Processadores Intel
 
 C - Processador para desktop desbloqueado baseado no pacote LGA 1150 com gráficos de alto desempenho;
 
